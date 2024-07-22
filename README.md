@@ -1,2 +1,2 @@
 # Best-Classifier
-Best classifier notebook for Machine learning project.
+Build a classifier to predict whether a loan case will be paid off or not. 
